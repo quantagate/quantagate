@@ -1,18 +1,11 @@
 # Raye Penber
 
-### Quantum Computing Researcher | AI Specialist | Bridging the Gap Between Quantum Weirdness and Real-World Solutions
+## Quantum Computing Researcher | AI Specialist
+*If the universe insists on being strange, let’s at least make it useful.” — me, after my third espresso and fifth qubit reset.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qiskit/qiskit-media/master/images/Qiskit_Logotype_Blue.png" width="400" alt="Qiskit Logo">
-</p>
+<img class="rounded-image" src="https://github.com/quantagate/quantagate.github.io/blob/master/images/quatagates.jpg" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 
-## 🚀 Tagline
-
-*Harnessing the counterintuitive nature of quantum mechanics to build the technologies of tomorrow.*
-
----
-
-## 👋 About Me
+## About Me
 
 The world of quantum mechanics is often depicted as a bizarre and counterintuitive place. Particles existing in multiple states simultaneously ($|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$), spooky action at a distance – it all sounds like science fiction. But here’s the thing: quantum mechanics isn’t some fringe theory. It’s the undeniably successful framework that underpins the behavior of the universe at its most fundamental level.
 
@@ -20,34 +13,28 @@ My passion lies in demystifying this "weirdness" and translating it into powerfu
 
 This profile is a window into my journey. Here you'll find projects ranging from quantum machine learning models to simulations of novel quantum materials. Join me as we explore the strangeness that shapes our universe and turn it into a superpower.
 
----
 
-## 🛠️ Skills
+## Skills
 
 * **Quantum Computing:** Quantum Algorithms (Shor's, Grover's), Quantum Machine Learning, Quantum Error Correction, Quantum Information Theory, Entanglement & Superposition Principles.
 * **AI & Machine Learning:** Deep Learning, Neural Networks, Reinforcement Learning, Natural Language Processing (NLP), Computer Vision.
 * **Programming & Software:** Python, C++, Qiskit, PennyLane, Cirq, TensorFlow, PyTorch, Scikit-learn.
 * **Mathematics:** Linear Algebra, Probability & Statistics, Complex Analysis, Differential Equations.
 
----
-
-## 💬 Quotes
 
 > "If you think you understand quantum mechanics, you don't understand quantum mechanics." - *Richard Feynman*
 
 > "The universe is not only stranger than we imagine, it is stranger than we can imagine." - *J.B.S. Haldane*
 
----
 
-## 📫 Let's Connect
+## Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/rayepenber](https://www.linkedin.com/in/rayepenber)
-* **Twitter:** [@RayePenberQuantum](https://twitter.com/RayePenberQuantum)
-* **GitHub:** [github.com/rayepenber](https://github.com/rayepenber)
+* **LinkedIn:** [linkedin.com/in/quantagates](https://www.linkedin.com/in/quantagates)
+* **Twitter:** [@quantumgate369](https://twitter.com/quantumgate369)
+* **GitHub:** [github.com/quantagate](https://github.com/quantagate)
 
----
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Category              | Technologies                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------- |
@@ -58,9 +45,8 @@ This profile is a window into my journey. Here you'll find projects ranging from
 | **Databases** | `SQL` `MongoDB`                                                                       |
 | **Tools** | `Git` `Jupyter` `Linux` `LaTeX`                                                       |
 
----
 
-## 🎓 Education
+## Education
 
 * **Massachusetts Institute of Technology (MIT)**
     * Ph.D. in Quantum Information Science
@@ -77,9 +63,8 @@ This profile is a window into my journey. Here you'll find projects ranging from
     * *September 2013 - June 2017*
     * Specialization in Artificial Intelligence.
 
----
 
-## 🏢 Work Experience
+## Work Experience
 
 **Quantum Research Scientist | IBM Quantum**
 *(June 2024 - Present)*
@@ -88,9 +73,8 @@ This profile is a window into my journey. Here you'll find projects ranging from
 * Collaborating with industry partners to identify and solve high-impact business problems in finance, materials science, and healthcare using quantum computers.
 * Contributing to the open-source Qiskit framework, with a focus on the `qiskit-machine-learning` module.
 
----
 
-## 📜 Certificates & Degrees
+## Certificates & Degrees
 
 1.  **IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X** - *IBM*
 2.  **Professional Certificate in Quantum Computing** - *MIT xPRO*
@@ -100,9 +84,8 @@ This profile is a window into my journey. Here you'll find projects ranging from
 6.  **Quantum Computing for Everyone** - *University of Chicago on Coursera*
 7.  **The Physics of Silicon - Quantum Computing 2** - *Purdue University on edX*
 
----
 
-## 📂 Projects
+## Projects
 
 1.  **Quantum Variational Classifier for Drug Discovery**
     * Developed a hybrid quantum-classical model using a Variational Quantum Eigensolver (VQE) to predict molecular binding affinities. Implemented in `Qiskit` and `PyTorch`.
@@ -124,9 +107,8 @@ This profile is a window into my journey. Here you'll find projects ranging from
     * Built a lightweight quantum circuit simulator from scratch using `NumPy` to teach the fundamental principles of quantum gates, superposition, and entanglement.
     * *Keywords: Education, Simulator, Quantum Gates, NumPy.*
 
----
 
-## 📚 Courses
+## Courses
 
 1.  **MIT 8.05x: Quantum Mechanics: A First Course** - *edX*
 2.  **Stanford CS269Q: Quantum Computer Programming** - *Stanford University*
